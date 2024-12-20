@@ -2,6 +2,7 @@
 <p align='center'>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img align="left" src="https://orhun.dev/img/crow.png">
 
 ```diff
 🛠️ +5 years of professional experience.
