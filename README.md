@@ -7,8 +7,6 @@ Hi, I'm Manuel Isaiah!
 
 
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
-<img src="https://media.giphy.com/media/YpuCDdAXVXDDq/giphy.gif" alt="Solaire GIF" align="right" width="200"> 
-<a href="https://giphy.com/gifs/xbox-comment-souls-YpuCDdAXVXDDq"></a>
 
 
  
