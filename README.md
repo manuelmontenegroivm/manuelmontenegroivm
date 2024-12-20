@@ -1,6 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://media.tenor.com/1bqEqlP-E1sAAAAd/solaire.gif" width="200">
+
+<img align="right" src="[https://orhun.dev/img/crow.png](https://media.tenor.com/1bqEqlP-E1sAAAAd/solaire.gif)">
 
 
 
