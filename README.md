@@ -1,12 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align='right' style="width:">
-  <div class="tenor-gif-embed" data-postid="21465395" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-    <a href="https://tenor.com/view/solaire-gif-21465395">Solaire Sticker</a>from 
-    <a href="https://tenor.com/search/solaire-stickers">Solaire Stickers</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<img align="right" src="https://media.tenor.com/1bqEqlP-E1sAAAAd/solaire.gif" width="200">
+
 
 
 
