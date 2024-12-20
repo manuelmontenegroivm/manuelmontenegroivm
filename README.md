@@ -11,7 +11,7 @@ Hi, I'm Manuel Isaiah!
 
 
 ```
-I-am-vishalmaurya@github
+Praise the Sun! 🌞
 -------------------------
 💻 I am a Full Stack Developer with experience in both Frontend and Backend development.
 📚 I have a strong foundation in software engineering, creating scalable and efficient applications.
