@@ -13,15 +13,14 @@ Hi, I'm Manuel Isaiah!
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 I am a Full Stack Developer with experience in both Frontend and Backend development.
+📚 I have a strong foundation in software engineering, creating scalable and efficient applications.
+📝 Passionate about building interactive user interfaces with React and reliable backend systems.
+🔭 Currently working on projects involving modern web technologies.
+🌱 Always learning and staying updated with the latest trends in development.
+🌟 Main tools and languages: Java, .NET Core, React, JavaScript frameworks, and SQL.
+🚩 Interested in delivering impactful solutions through thoughtful design and code.
+🎵 Enjoys listening to Radiohead, Muse, System of a Down, Oasis, and Miles Davis.
 ```
 <hr>
 
